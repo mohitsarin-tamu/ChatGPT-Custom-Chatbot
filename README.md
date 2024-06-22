@@ -1,2 +1,2 @@
 # Chatbot
-- Here I'm learning how to build a custom Chatbot using ChatGPT.
+- It is a basic implementation of using the ChatGPT API as an Education Counselor.
