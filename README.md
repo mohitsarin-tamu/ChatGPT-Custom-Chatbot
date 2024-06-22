@@ -1,2 +1,4 @@
 # Chatbot
-- Here I'm learning how to build a custom Chatbot using ChatGPT.
+- It is a basic implementation of using ChatGPT Api in out websites.
+- Here, I learned the integration of ChatGPT with other systems. 
+- 
